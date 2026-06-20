@@ -31,7 +31,7 @@ This repository contains hands-on network forensics and incident response invest
   * Tracked malicious PHP web shell deployment.
   * Reconstructed the attack chain from initial access to remote command execution.
   * Documented indicators of compromise (IOCs) and remediation recommendations.
-* **📄 Report:** [View Full PDF Report](./* **📄 Report:** [View Full PDF Report](./document/SOC_PCAP%20analysis%20Operation%20Silent%20Intrusion.pdf)
+* **📄 Report:** [View Full PDF Report](./document/SOC_PCAP%20analysis%20Operation%20Silent%20Intrusion.pdf)
 
 ### Case Study 2: File Upload Exploitation Incident Response
 * **Objective:** Investigate a web server compromise resulting from insecure file upload functionality.
@@ -41,7 +41,7 @@ This repository contains hands-on network forensics and incident response invest
   * Reconstructed the sequence of events leading to unauthorized system access.
   * Documented evidence of sensitive file access and data exposure.
   * Provided mitigation recommendations to strengthen upload security controls.
-* **📄 Report:** [View Full PDF Report](.* **📄 Report:** [View Full PDF Report](./document/SOC%20Incident%20Report_Operation%20Shadow%20Drop.pdf)
+* **📄 Report:** [View Full PDF Report](./document/SOC%20Incident%20Report_Operation%20Shadow%20Drop.pdf)
 
 ---
 
