@@ -1,4 +1,4 @@
-# Network Forensics Analysis & Incident Response Lab
+# Network Forensic Analysis & Incident Response Lab
 
 ## 📌 Project Overview
 This repository contains hands-on network forensics and incident response investigations completed as part of cybersecurity training and lab exercises. The projects focus on analyzing web application compromises, identifying attacker activity, reconstructing attack timelines, and recommending security controls to prevent future incidents.
